@@ -1,10 +1,9 @@
 # Hi, I'm Sakshi Chavan 👋
-
-MS in Data Science @ UMass Dartmouth  
+ 
 Software Engineer | Data Scientist | ML Engineer  
 Building production ML systems, scalable APIs, and cloud-native AI applications  
 
-I specialize in designing **end-to-end machine learning systems** — from data pipelines and feature engineering to model deployment, monitoring, and real-time analytics.
+I specialize in designing **end-to-end machine learning systems** from data pipelines and feature engineering to model deployment, monitoring, and real-time analytics.
 
 ---
 
