@@ -83,4 +83,5 @@ CrewAI + Claude API
 
 ---
 
-⭐ Always open to Data Science / ML Engineering / AI roles & internships
+Passionate about building production-ready ML systems and solving real-world problems with data
+
