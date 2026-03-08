@@ -19,21 +19,9 @@
 
 # Hi, I'm Sakshi Chavan 👋
  
-Software Engineer | Data Scientist | ML Engineer  
+Software Engineer | Data Scientist | ML Engineer | AI Engineer 
 Building production ML systems, scalable APIs, and cloud-native AI applications  
-
 I specialize in designing **end-to-end machine learning systems** from data pipelines and feature engineering to model deployment, monitoring, and real-time analytics.
-
----
-
-
-## What I Do
-
-![Production ML & MLOps](https://img.shields.io/badge/Production_ML_%26_MLOps-1e293b?style=for-the-badge)
-![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-1e293b?style=for-the-badge)
-![Cloud-Native Systems](https://img.shields.io/badge/Cloud--Native_Systems_(AWS_·_Azure_·_GCP)-1e293b?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST_APIs_%26_Full--Stack_Data_Apps-1e293b?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative_AI_%26_Multi--Agent_Systems-1e293b?style=for-the-badge)
 
 ---
 
