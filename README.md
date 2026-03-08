@@ -175,6 +175,5 @@ I specialize in designing **end-to-end machine learning systems** from data pipe
 📧 sakshchavan30@gmail.com   
 
 ---
-
-Passionate about building production-ready ML systems and solving real-world problems with data
+# "The goal is to turn data into information, and information into insight." — Carly Fiorina
 
