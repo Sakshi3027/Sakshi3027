@@ -1,9 +1,9 @@
 <div align="center">
 
 ![Boston, MA](https://img.shields.io/badge/📍_BOSTON,_MA-555555?style=flat-square&labelColor=555555&color=555555)
-![STEM OPT Active](https://img.shields.io/badge/✅_STEM_OPT_ACTIVE-2ea44f?style=flat-square)
-![No Sponsorship Required](https://img.shields.io/badge/🚫_NO_SPONSORSHIP_REQUIRED-8b5cf6?style=flat-square)
-![Immediately Available](https://img.shields.io/badge/🟢_IMMEDIATELY_AVAILABLE-22c55e?style=flat-square)
+![STEM OPT Active](https://img.shields.io/badge/STEM_OPT_ACTIVE-2ea44f?style=flat-square)
+![No Sponsorship Required](https://img.shields.io/badge/NO_SPONSORSHIP_REQUIRED-8b5cf6?style=flat-square)
+![Immediately Available](https://img.shields.io/badge/IMMEDIATELY_AVAILABLE-22c55e?style=flat-square)
 
 <br/>
 
@@ -75,6 +75,33 @@ Building production ML systems, scalable APIs, and cloud-native AI applications.
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+<!-- Contribution Graph -->
+[![Sakshi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sakshi3027&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true&custom_title=Sakshi%27s%20Contribution%20Graph)](https://github.com/Sakshi3027)
+
+</div>
+
+<div align="center">
+
+<!-- Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sakshi3027&theme=dark&background=0D1117&border=30363D&ring=58A6FF&fire=FF6B35&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+<!-- GitHub Stats + Most Used Languages side by side -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sakshi3027&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&hide_border=true&count_private=true&include_all_commits=true" />
+&nbsp;&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi3027&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
 ## Featured Projects
 
 ### SaaS Churn Prediction System
@@ -101,8 +128,8 @@ Building production ML systems, scalable APIs, and cloud-native AI applications.
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![Bayesian Analysis](https://img.shields.io/badge/Bayesian_Analysis-8b5cf6?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white) 
--Developed a full-stack A/B testing platform analyzing 40K+ users, leveraging Bayesian/Frequentist methods and 100K+ Monte Carlo simulations to quantify revenue impact ($125K+). 
--Automated detection of statistical pitfalls (Simpson’s paradox, peeking bias, multiple testing) with interactive dashboards in Streamlit and Plotly. 
+- Developed a full-stack A/B testing platform analyzing 40K+ users, leveraging Bayesian/Frequentist methods and 100K+ Monte Carlo simulations to quantify revenue impact ($125K+). 
+- Automated detection of statistical pitfalls (Simpson's paradox, peeking bias, multiple testing) with interactive dashboards in Streamlit and Plotly. 
 🔗 https://github.com/Sakshi3027/ecommerce-ab-testing-platform
 
 ### Natural Language Analyst (NL → SQL App)
@@ -149,6 +176,7 @@ Building production ML systems, scalable APIs, and cloud-native AI applications.
 - Teaching Assistant – I ran the lab sessions for an ML course around 60 students. I helped them work through the hands-on parts and graded their assignments.
 - Data Analyst Intern – I worked with healthcare data, Medicare and Medicaid claims. I wrote SQL queries to clean and validate the data, then built models and dashboards in Python to help the business make better decisions.
 - Data Science Intern – I built a model that predicted which customers were most likely to buy, and segmented them so the marketing team could target them better. That ended up increasing conversion rates by 20%.
+
 ---
 
 ## Currently Exploring
@@ -163,5 +191,4 @@ Building production ML systems, scalable APIs, and cloud-native AI applications.
 📧 sakshchavan30@gmail.com   
 
 ---
-# "The goal is to turn data into information, and information into insight." — Carly Fiorina
-
+> *"The goal is to turn data into information, and information into insight."* — Carly Fiorina
