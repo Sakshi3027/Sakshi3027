@@ -31,19 +31,29 @@ Building production ML systems, scalable APIs, and cloud-native AI applications.
 ![Python](https://img.shields.io/badge/PYTHON-3776ab?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-ed8b00?style=flat-square&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/R-276dc3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479a1?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/BASH-4eaa25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-### AI · ML · Data
+### AI · Agentic Systems
+![LangGraph](https://img.shields.io/badge/LANGGRAPH-1c3c3c?style=flat-square)
+![LangChain](https://img.shields.io/badge/LANGCHAIN-1c3c3c?style=flat-square)
+![LangSmith](https://img.shields.io/badge/LANGSMITH-1c3c3c?style=flat-square)
+![Qdrant](https://img.shields.io/badge/QDRANT-dc244c?style=flat-square)
+![Pinecone](https://img.shields.io/badge/PINECONE-000000?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG_PIPELINES-8b5cf6?style=flat-square)
+![FHIR](https://img.shields.io/badge/FHIR-e11d48?style=flat-square)
+![LLM Evaluation](https://img.shields.io/badge/LLM_EVALUATION-2563eb?style=flat-square)
+![Agent Observability](https://img.shields.io/badge/AGENT_OBSERVABILITY-059669?style=flat-square)
+
+### ML · Data Science
 ![PyTorch](https://img.shields.io/badge/PYTORCH-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TENSORFLOW-ff6f00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-f7931e?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBOOST-189fdd?style=flat-square)
-![LangChain](https://img.shields.io/badge/LANGCHAIN-1c3c3c?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/HUGGINGFACE-ffd21e?style=flat-square&logo=huggingface&logoColor=black)
 ![MLflow](https://img.shields.io/badge/MLFLOW-0194e2?style=flat-square&logo=mlflow&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CREWAI-7c3aed?style=flat-square)
 ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=flat-square&logo=numpy&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PYSPARK-e25a1c?style=flat-square&logo=apachespark&logoColor=white)
@@ -51,7 +61,9 @@ Building production ML systems, scalable APIs, and cloud-native AI applications.
 ### Full-Stack Engineering
 ![React](https://img.shields.io/badge/REACT-61dafb?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/ANGULAR-dd0031?style=flat-square&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6db33f?style=flat-square&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/FLASK-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/STREAMLIT-ff4b4b?style=flat-square&logo=streamlit&logoColor=white)
@@ -62,6 +74,7 @@ Building production ML systems, scalable APIs, and cloud-native AI applications.
 ![GCP](https://img.shields.io/badge/GCP-4285f4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ed?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/KUBERNETES-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/TERRAFORM-7b42bc?style=flat-square&logo=terraform&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MONGODB-47a248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/REDIS-dc382d?style=flat-square&logo=redis&logoColor=white)
@@ -72,6 +85,11 @@ Building production ML systems, scalable APIs, and cloud-native AI applications.
 ![Kafka](https://img.shields.io/badge/KAFKA-231f20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Airflow](https://img.shields.io/badge/AIRFLOW-017cee?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Databricks](https://img.shields.io/badge/DATABRICKS-ff3621?style=flat-square&logo=databricks&logoColor=white)
+![dbt](https://img.shields.io/badge/DBT-ff694b?style=flat-square&logo=dbt&logoColor=white)
+
+### Testing & Workflow
+![Cucumber](https://img.shields.io/badge/CUCUMBER-23d96c?style=flat-square&logo=cucumber&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-2088ff?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
@@ -104,70 +122,47 @@ Building production ML systems, scalable APIs, and cloud-native AI applications.
 
 ## Featured Projects
 
-### SaaS Churn Prediction System
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189fdd?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white) 
-- Complete ML system predicting SaaS customer churn with 91-94% ROC-AUC. Features: 10K customers, 60+ engineered features, XGBoost model, multi-horizon predictions (30/60/90d), ROI-driven retention strategies, REST API (FastAPI), interactive dashboard (Streamlit), Docker deployment. $1.1M revenue at risk identified.  
-🔗 https://github.com/Sakshi3027/saas-churn-prediction
-
-### Real-Time Advertising Analytics Platform
-![Hadoop](https://img.shields.io/badge/Hadoop-66ccff?style=flat-square&logo=apachehadoop&logoColor=black)
-![Kafka](https://img.shields.io/badge/Kafka-231f20?style=flat-square&logo=apachekafka&logoColor=white)
-![AWS EMR](https://img.shields.io/badge/AWS_EMR-232f3e?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
-- Engineered a distributed big data analytics platform processing 100,000+ advertising impressions using Hadoop MapReduce and Apache Kafka, simulating PubMatic's real-world SSP infrastructure for publisher revenue optimization and fraud detection
-- Developed 4 custom MapReduce jobs in Java analyzing publisher revenue ($2,456 total), device performance (Mobile 46%, Desktop 46%, Tablet 8%), campaign ROI (650 profitable campaigns), and fraud patterns (47 suspicious users identified with 5% fraud rate)
-- Implemented real-time event streaming pipeline using Apache Kafka processing 10 events/second with live analytics dashboard, deployed on 13-container Docker cluster with HDFS distributed storage and YARN resource management
-- Created interactive Tableau Public dashboard with 7 visualizations including revenue analysis, CTR correlation matrix, device breakdown, and fraud detection patterns, featuring dynamic filtering and drill-down capabilities across 50 publishers
-- Designed fraud detection algorithm identifying suspicious patterns (click spam, impression flooding, multi-publisher bots) with pattern recognition achieving 8% click concentration from 0.5% of users, saving estimated $85/month in ad fraud 
-🔗 https://github.com/Sakshi3027/PubMatic-Ad-Analytics
-
-### E-commerce A/B Testing Platform
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
-![Bayesian Analysis](https://img.shields.io/badge/Bayesian_Analysis-8b5cf6?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white) 
-- Developed a full-stack A/B testing platform analyzing 40K+ users, leveraging Bayesian/Frequentist methods and 100K+ Monte Carlo simulations to quantify revenue impact ($125K+). 
-- Automated detection of statistical pitfalls (Simpson's paradox, peeking bias, multiple testing) with interactive dashboards in Streamlit and Plotly. 
-🔗 https://github.com/Sakshi3027/ecommerce-ab-testing-platform
-
-### Natural Language Analyst (NL → SQL App)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=sqlite&logoColor=white) 
-- Developed and deployed full-stack web application enabling users to query CSV data using natural language, serving 100+ demo users
-- Engineered pattern-matching algorithm converting English questions to SQL, achieving 95%+ query accuracy
-- Implemented RESTful API with Express.js and SQLite for real-time data processing and analysis
-- Integrated Chart.js for dynamic data visualizations (bar/pie charts) with responsive frontend design
-- Deployed on Railway with CI/CD pipeline, automatic builds on Git push 
-🔗 https://github.com/Sakshi3027/natural-language-analyst
-
-### Semantic Video Search Engine
-![Python](https://img.shields.io/badge/PYTHON-3776ab?style=flat-square&logo=python&logoColor=white)
-![Whisper](https://img.shields.io/badge/WHISPER-412991?style=flat-square)
+### Prior Authorization Assistant — Provider-Side Clinical AI Agent
+![LangGraph](https://img.shields.io/badge/LANGGRAPH-1c3c3c?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Pinecone](https://img.shields.io/badge/PINECONE-000000?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
 ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=next.js&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-2496ed?style=flat-square&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285f4?style=flat-square&logo=googlecloud&logoColor=white)
-- Built an end-to-end semantic video search system enabling natural language search across video content, processing 14-min videos in ~95s using faster-Whisper transcription, sentence-transformers embeddings (384-dim), and Pinecone vector database with cosine similarity search returning results in under 600ms.
-- Engineered a production REST API with FastAPI featuring 8 endpoints, async video processing via Celery + Redis job queue, PostgreSQL metadata storage, and free cross-encoder re-ranking pipeline (cross-encoder/ms-marco-MiniLM-L-6-v2) with automatic query expansion achieving zero inference cost.
-- Deployed full stack on GCP Compute Engine using Docker Compose orchestrating 5 containers; built Next.js frontend deployed on Vercel and Streamlit analytics dashboard with auto-chapter generation and YouTube timestamp deep links.
-🔗 https://github.com/Sakshi3027/semantic-video-search
+![FHIR](https://img.shields.io/badge/FHIR-e11d48?style=flat-square)
+- Built and deployed a five-node LangGraph agent (extract → triage → retrieve → evaluate → draft, with a real conditional short-circuit) that reads clinical notes, retrieves the governing payer policy via RAG, checks the patient against medical-necessity criteria, and drafts a justified authorization request with citations and a confidence score.
+- Modeled all patient data as FHIR resources from day one, the actual industry standard the CMS prior authorization rule is built around, rather than a generic schema, a deliberate choice for domain authenticity.
+- Extended with an appeals agent, human-in-the-loop reviewer override, batch processing, a CMS-compliant FHIR Prior Authorization Support API layer, and a PDF-to-policy ingestion pipeline; proved end to end by feeding it a real MRI-brain policy PDF and adjudicating a live claim against it with zero code changes.
+🔗 https://github.com/Sakshi3027/prior-auth-assistant | 🌐 prior-auth-assistant-six.vercel.app
 
-### CloudCart Analytics Platform 
-![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-3776ab?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/REACT-61dafb?style=flat-square&logo=react&logoColor=black)
-![Kafka](https://img.shields.io/badge/KAFKA-231f20?style=flat-square&logo=apachekafka&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/CLICKHOUSE-ffcc01?style=flat-square&logo=clickhouse&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-f7931e?style=flat-square&logo=scikit-learn&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-2496ed?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazonaws&logoColor=white)
-- Built end-to-end microservices e-commerce platform with 4 services processing real-time transactions for 100+ users, implementing event-driven architecture via Apache Kafka achieving <1s order-to-analytics latency and 85% Redis cache hit ratio.
-- Engineered ML recommendation engine using scikit-learn collaborative filtering on PostgreSQL order history, computing product similarity matrices with cosine similarity to deliver personalized suggestions in <50ms; integrated with ClickHouse OLAP for 10x faster analytics queries.
-- Deployed production infrastructure with Docker Compose managing 11 containers (databases, Kafka, Redis); developed React dashboard with real-time sales visualization, established GitHub Actions CI/CD with automated testing and security scanning (CodeQL, Trivy).
-🔗 https://github.com/Sakshi3027/cloudcart-analytics-platform
+### Claims Adjudication & Audit Compliance Platform
+![Java](https://img.shields.io/badge/JAVA_21-ed8b00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6db33f?style=flat-square&logo=springboot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-47a248?style=flat-square&logo=mongodb&logoColor=white)
+![Angular](https://img.shields.io/badge/ANGULAR-dd0031?style=flat-square&logo=angular&logoColor=white)
+![Cucumber](https://img.shields.io/badge/CUCUMBER-23d96c?style=flat-square&logo=cucumber&logoColor=white)
+- Built the payer-side counterpart to Prior Authorization Assistant, a claims adjudication engine where business analysts define rules directly in Gherkin, a Spring Boot engine evaluates every claim against them, and auditors review decisions through an Angular/RxJS dashboard. Together, the two projects cover the entire healthcare payment lifecycle, before treatment and after.
+- Designed a MongoDB document schema for variable-shape claims data and an append-only audit trail logging every adjudication decision and manual override, giving auditors a permanent, provable trail for regulatory traceability.
+- Containerized the full stack with Docker Compose for one-command deployment; live on MongoDB Atlas with the API and frontend running as separate Render Docker services.
+🔗 https://github.com/Sakshi3027/claims-adjudication-platform | 🌐 claims-adjudication-platform-1.onrender.com
+
+### AgentTrace — LLM Agent Observability Framework
+![LangGraph](https://img.shields.io/badge/LANGGRAPH-1c3c3c?style=flat-square)
+![Streamlit](https://img.shields.io/badge/STREAMLIT-ff4b4b?style=flat-square&logo=streamlit&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLITE-003b57?style=flat-square&logo=sqlite&logoColor=white)
+- AI agents work great in the demo, then quietly degrade in production with no one watching. Built a framework that wraps any LangGraph agent, traces every step, and scores output quality automatically with an LLM-as-judge, no human labeling required.
+- Implemented drift detection that compares recent scores against a historical baseline and fires an alert the moment quality slips below a set threshold; in its own demo run, it caught a real quality drop (0.57 average against a 0.70 threshold) automatically, before manual review would have caught it.
+- Built entirely on free-tier infrastructure (Groq, DuckDuckGo search, SQLite, Streamlit) for $0 total infrastructure cost, purpose-built around the exact failure mode a Forward Deployed Engineer gets called in to solve.
+🔗 https://github.com/Sakshi3027/agenttrace | 🌐 huggingface.co/spaces/Sakshi3027/agenttrace
+
+### Signal — Autonomous Market Intelligence Agent
+![LangGraph](https://img.shields.io/badge/LANGGRAPH-1c3c3c?style=flat-square)
+![Qdrant](https://img.shields.io/badge/QDRANT-dc244c?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=next.js&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LANGSMITH-1c3c3c?style=flat-square)
+- Built an autonomous agent that wakes up every 6 hours, ingests 500+ signals from 17 sources (RSS, GitHub trending, arXiv) into DuckDB, and reasons through a 4-node LangGraph pipeline, Supervisor → Researcher → Analyst → Judge, with conditional retry when a report scores below 0.7, fully hands-off intelligence generation.
+- Diagnosed and fixed a real production hallucination bug: the retrieval layer was passing low-similarity chunks through as trustworthy context, so the model reasoned confidently from noise. Fixed the root cause with concrete similarity thresholds and structured output validators.
+- Instrumented full LangSmith trace observability across every node afterward, so any future failure surfaces immediately instead of being discovered by accident; semantic search powered by 384-dim sentence-transformer embeddings in Qdrant Cloud.
+🔗 https://github.com/Sakshi3027/signal | 🌐 signal-dashboard-chi-six.vercel.app
 
 ---
 
