@@ -1,15 +1,12 @@
 <div align="center">
 
 ![Boston, MA](https://img.shields.io/badge/📍_BOSTON,_MA-555555?style=flat-square&labelColor=555555&color=555555)
-![STEM OPT Active](https://img.shields.io/badge/STEM_OPT_ACTIVE-2ea44f?style=flat-square)
-![No Sponsorship Required](https://img.shields.io/badge/NO_SPONSORSHIP_REQUIRED-8b5cf6?style=flat-square)
 ![Immediately Available](https://img.shields.io/badge/IMMEDIATELY_AVAILABLE-22c55e?style=flat-square)
 
 <br/>
 
 ![M.S. Data Science](https://img.shields.io/badge/M.S._DATA_SCIENCE-374151?style=flat-square)
 ![B.Tech CS](https://img.shields.io/badge/B.TECH_COMPUTER_SCIENCE-374151?style=flat-square)
-![UMass Dartmouth](https://img.shields.io/badge/UMASS_DARTMOUTH-3b82f6?style=flat-square)
 ![Software Engineering](https://img.shields.io/badge/SOFTWARE_ENGINEERING-ef4444?style=flat-square)
 ![Data Scientist](https://img.shields.io/badge/DATA_SCIENTIST-ef4444?style=flat-square)
 ![AI Engineer](https://img.shields.io/badge/AI_ENGINEER-f97316?style=flat-square)
