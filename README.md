@@ -1,6 +1,6 @@
 <div align="center">
 
-![San Francisco, CA](https://img.shields.io/badge/📍_,San_Francisco_CA-555555?style=flat-square&labelColor=555555&color=555555)
+![San Francisco, CA](https://img.shields.io/badge/📍_San_Francisco,_CA-555555?style=flat-square&labelColor=555555&color=555555)
 ![Immediately Available](https://img.shields.io/badge/IMMEDIATELY_AVAILABLE-22c55e?style=flat-square)
 
 <br/>
