@@ -1,6 +1,6 @@
 <div align="center">
 
-![Boston, MA](https://img.shields.io/badge/📍_BOSTON,_MA-555555?style=flat-square&labelColor=555555&color=555555)
+![San Francisco, CA](https://img.shields.io/badge/📍_,San_Francisco_CA-555555?style=flat-square&labelColor=555555&color=555555)
 ![Immediately Available](https://img.shields.io/badge/IMMEDIATELY_AVAILABLE-22c55e?style=flat-square)
 
 <br/>
@@ -18,7 +18,13 @@
  
 Software Engineer | Data Scientist | ML Engineer | AI Engineer 
 
-Building production ML systems, scalable APIs, and cloud-native AI applications. I specialize in designing **end-to-end machine learning systems** from data pipelines and feature engineering to model deployment, monitoring, and real-time analytics.
+Software Engineer specializing in Data Science Infrastructure and Distributed Systems, with 3+ years of experience building scalable data platforms, high-throughput APIs, and cloud-native applications. Currently building data infrastructure at Chicago Education Advocacy Cooperative, transforming education data into research-ready datasets using Azure, Kafka, Databricks, and Spark. Working across large-scale data pipelines, distributed databases, and AI-powered research tools, with measurable impact including 85% fewer duplicate student profiles, sub-second search across 2M+ documents, and dashboard response times reduced to under 200ms.
+
+Previously, at I-Tech Systems, I developed a real-time bidding platform handling 50K+ ad-auction requests per second while maintaining strict latency targets and improving billing accuracy. At Skyline Infrastructure, I built distributed developer tools and Kubernetes-based CI/CD infrastructure, reducing CI execution time from 45 minutes to 12 minutes and average build time by 60%.
+
+My technical expertise spans Python, Java, Go, SQL, Kafka, Spark, Databricks, Flink, PostgreSQL, Redis, Elasticsearch, Kubernetes, Docker, Terraform, Azure, AWS, and distributed systems design. I also work with Azure OpenAI, retrieval-augmented generation (RAG), and MLflow to build practical, data-driven solutions.
+
+Always open to connecting with engineers and technology professionals building impactful products, scalable platforms, and intelligent data systems. 🤝
 
 ---
 
